@@ -1,0 +1,60 @@
+article, aside, figure, footer, header, hgroup, menu, nav, section { 
+	display: block; 
+	  color: #eeb2ed
+	  
+}
+h1 {
+	font-style: arial;
+	text-align: center;
+	;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #eeb2ed;
+
+
+    
+}
+#graphic {
+	float: left;
+	border: 1px dotted #564b47;
+	padding: 0.5rem 2rem;
+    border: 3px #eeb2ed solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #eeb2ed;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+#instruction {
+	float: left;
+	margin-left: 1px;
+	width: 733px;
+	height: 680px;
+	padding: 0.5rem 2rem;
+    border: 3px #eeb2ed solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #eeb2ed;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+#clean {
+	
+    padding: 0.5rem 2rem;
+    border: 3px #eeb2ed solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #eeb2ed;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
