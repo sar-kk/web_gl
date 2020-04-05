@@ -1,1 +1,6 @@
 # web_gl
+Napisz prosty program, który demonstruje rysowanie w WebGL obiektów geometrycznych: POINTS, LINE_STRIP, LINE_LOOP, LINES, TRIANGLE_STRIP, TRIANGLE_FAN, TRIANGLES. 
+Zastosować zmienne uniform do ustalania pewnych parametrów rysowania (np. kolorów, przekształceń geometrycznych itp.) Należy także:
+wypisać w konsoli lub na stronie listę aktywnych atrybutów, zgodnie z przykładem na stronie https://developer.mozilla.org/en-US/docs/Web/API/WebGLRenderingContext/getActiveAttrib ,
+analogicznie wykorzystać getActiveUniform aby wypisać listę zmiennych uniform. 
+zademonstrować działanie bindAttribLocation aby przypisać zmienne attribute variable do ustalonych przez użytkownika indeksów generic vertex index.
